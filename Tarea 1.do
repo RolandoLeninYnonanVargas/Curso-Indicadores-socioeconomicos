@@ -1,6 +1,6 @@
 *****************************************************
 * Paper: Mujeres rurales y el uso de teléfonos móviles en el Perú. Efecto en el empoderamiento con visión de capital humano
-* Docente: Soledad Ruiz Lopes
+* Docente: Soledad Ruiz Lopez
 * Autor de Dofile: Rolando Lenin Ynoñan Vargas
 *****************************************************
 
@@ -190,4 +190,5 @@ svy: mean ingreso_mensual, over(año)
 *****************************************************
 * Fin del Do
 *****************************************************
+
 
